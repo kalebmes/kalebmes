@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @kalebmes
-- 👀 I’m interested in developing machine learning algorithms which are capable of solivng real life problems.
-- 🌱 I’m currently pursuing a double major in Computer Science and Mathematics at KAIST (Korean Advanced Institute of Science and Technology)
+- 👀 Currently pursuing a double major from the School of Computing (Computer Science) and Department of Mathematical Sciences at KAIST (Korean Advanced Institute of Science and         Technology). I really look forward to making contributions in order to solve real life problems based on my ability, and experience.
 - 📫 Linkedin - www.linkedin.com/in/kalebmesfinasfaw2b5272212
 <!-- - 💞️ I’m looking to collaborate on ... -->
 
