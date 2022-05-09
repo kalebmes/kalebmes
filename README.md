@@ -63,4 +63,5 @@
 " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg
 " alt="kalebasfaw" height="30" width="40" /></a> 
  ​<a href="https://www.instagram.com/kaleb_m_asfaw/
-" target="blank"><img align="center" src
+" target="blank"><img align="center" src"https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg
+" alt="kalebasfaw" height="30" width="40" /></a>
