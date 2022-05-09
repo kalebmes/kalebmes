@@ -1,5 +1,5 @@
-<h2 align="center">Hi 👋, I'm Kaleb Mesfin Asfaw</h2>
-<h3 align="center">A Computer Science (Special designated AI major) student at KAIST (Korea Advanced Institute of Science and Technology) 🇰🇷.</h3>
+<h2 align="left">Hi 👋, I'm Kaleb :))</h2>
+<h3 align="left">A Computer Science (Special designated AI major) student at KAIST (Korea Advanced Institute of Science and Technology) 🇰🇷.</h3>
 
 - 👯 ​I am really looking forward to **working on real life applications of AI, mainly interested in Machine Learning, Data Science, Computer Vision, and Natural Language Processing**
 
@@ -19,3 +19,4 @@
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kalebmes&show_icons=true&locale=en&layout=compact" alt="kalebmes" /></p>
+![Kaleb's GitHub stats](https://github-readme-stats.vercel.app/api?username=kalebmes&show_icons=true&theme=radical)
