@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋, I'm Kaleb :))</h2>
-<h4 align="left">A Computer Science (AI Special designated major) student at KAIST (Korea Advanced Institute of Science and Technology) 🇰🇷.</h4>
+<h4 align="left">A Computer Science (AI Special Track) student at KAIST (Korea Advanced Institute of Science and Technology) 🇰🇷.</h4>
 
 - Looking forward to working on **real life applications of Artificial Intelligence** 
 
