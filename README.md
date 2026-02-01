@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋, I'm Kaleb :)) </h2>
-<h4 align="left">A BME student at UCalgary.</h4>
+<h4 align="left">A BME MSc student at UCalgary.</h4>
 
 <!--- Looking forward to working on **real life applications of Artificial Intelligence** -->
 
@@ -10,7 +10,4 @@
 <p align="left">
 <a href="https://linkedin.com/in/kalebmesfinasfaw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kalebmesfinasfaw2b5272212" height="30" width="40" /></a>
 <a href="https://kaggle.com/kalebasfaw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kalebasfaw" height="30" width="40" /></a>
-<a href="https://fb.com/kaleb.mesfin.3158" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kaleb.mesfin.3158" height="30" width="40" /></a>
-<a href="https://instagram.com/kaleb_m_asfaw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kaleb_m_asfaw" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/kalebleet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kalebleet" height="30" width="40" /></a>
 </p>
